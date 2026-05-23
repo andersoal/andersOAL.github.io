@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Build output
+/dist/
+/build/
+
+# Generated files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+/.pnp/
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Vue CLI
+/.vuepress/dist
+
+# Local env files
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Misc
+coverage/
